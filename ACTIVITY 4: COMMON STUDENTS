@@ -1,0 +1,14 @@
+# ACTIVITY 4: COMMON STUDENTS
+# Find students in BOTH classes
+# Find ALL students
+
+classA = {"John", "Ana", "Mark"}
+classB = {"Ana", "Mark", "Liza"}
+
+# Students in BOTH classes (intersection)
+both = classA.intersection(classB)
+print("Both classes:", both)
+
+# ALL students (union)
+all_students = classA.union(classB)
+print("All students:", all_students)
