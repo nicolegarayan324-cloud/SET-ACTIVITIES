@@ -1,0 +1,5 @@
+# ACTIVITY 1: REMOVE DUPLICATES
+# Convert to set and print unique values
+
+unique_values = set(numbers)
+print(unique_values)
