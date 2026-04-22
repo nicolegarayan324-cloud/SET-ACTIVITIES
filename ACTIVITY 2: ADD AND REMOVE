@@ -1,0 +1,12 @@
+# ACTIVITY 2: ADD AND REMOVE
+# Add "orange"
+# Remove "banana"
+
+fruits = {"apple", "banana"}
+fruits.add("orange")
+
+print(fruits) 
+
+fruits.remove("banana")
+
+print(fruits)
