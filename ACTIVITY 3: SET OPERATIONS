@@ -1,0 +1,13 @@
+# ACTIVITY 3: SET OPERATIONS
+# Find:
+# union
+# intersection
+
+A = {1, 2, 3}
+B = {3, 4, 5}
+
+# Find union
+print(A.union(B))
+
+# Find intersection
+print(A.intersection(B))
